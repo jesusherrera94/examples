@@ -8,4 +8,15 @@ print(nombres[nombres.__len__()-1])
 print('La dimension del arreglo es: ',nombres.__len__())
 
 #for y arreglos
-listNumber = []
+listNumber = [4,7,5,8,45,8]
+
+#for
+#sintaxis: for <item en singular> in <nombre del arreglo>:
+#foreach
+for peakyBlinder in nombres:
+    if(peakyBlinder=='Estefanía'):
+        print(peakyBlinder)
+
+
+
+
