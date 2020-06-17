@@ -18,5 +18,14 @@ for peakyBlinder in nombres:
         print(peakyBlinder)
 
 
+#Cadenas
+#Las cadenas(textos) son un tipo especial de areglos.
+
+print('Cadenas\n')
+nombre = 'Juan Perez'
+
+#Imprime solo J
+print(nombre[0])
+
 
 
