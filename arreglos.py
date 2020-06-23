@@ -44,4 +44,3 @@ print(nombre[ nombre.find('sed') ])
 print(nombre)
 
 #funciones de conversion de texto o cadenas
-print(nombre.upper())

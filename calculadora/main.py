@@ -45,6 +45,4 @@ while True:
         expo = float(input('ingrese el valor de exponente: '))
         sigmoidal = 1/(1+mt.exp(-expo))
         print('el resultado de la función es: ',sigmoidal)
-    if(codigo==8):
-        #sub menu, otro codigo sin, cos, tan.
     print('\n')
